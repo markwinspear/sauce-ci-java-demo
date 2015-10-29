@@ -5,6 +5,8 @@ Use the WebDriverWithHelperJSONTest
 with Jenkins and Saucelabs plugin with this guide:
    https://web.archive.org/web/20150315104922/https://docs.saucelabs.com/ci-integrations/jenkins/#maven-configuration-for-a-java-based-project
 
+This project allows you to specify an array of OS & Browsers for a single Jenkins job and iterate over them
+
 TODO:
 Add page object model tests
 Experiment with Cucumber (unsure around use of Junit and Cucumber Junit annotations together)
