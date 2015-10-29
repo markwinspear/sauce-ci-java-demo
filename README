@@ -1,1 +1,10 @@
 This project contains a sample Maven project that demonstrates the integration points required to leverage the functionality provided by the Sauce OnDemand CI plugins (for Jenkins, Bamboo and Hudson).
+
+Forked project:
+Use the WebDriverWithHelperJSONTest
+with Jenkins and Saucelabs plugin with this guide:
+   https://web.archive.org/web/20150315104922/https://docs.saucelabs.com/ci-integrations/jenkins/#maven-configuration-for-a-java-based-project
+
+TODO:
+Add page object model tests
+Experiment with Cucumber (unsure around use of Junit and Cucumber Junit annotations together)
